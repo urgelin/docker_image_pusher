@@ -14,3 +14,4 @@ fatedier/frps:v0.65.0
 fatedier/frpc:v0.65.0
 
 nginx:1.29.4
+nginx:1.26.3

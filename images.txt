@@ -12,3 +12,5 @@ mysql:8.0.44
 
 fatedier/frps:v0.65.0
 fatedier/frpc:v0.65.0
+
+nginx:1.29.4

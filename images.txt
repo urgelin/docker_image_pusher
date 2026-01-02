@@ -17,3 +17,4 @@ nginx:1.29.4
 nginx:1.26.3
 
 centos:centos7.9.2009
+redis:5.0.14

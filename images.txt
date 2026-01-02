@@ -8,5 +8,7 @@
 minio/minio:RELEASE.2024-12-18T13-15-44Z
 
 mysql:8.4
-
 mysql:8.0.44
+
+fatedier/frps:v0.65.0
+fatedier/frpc:v0.65.0

@@ -5,19 +5,21 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-minio/minio:RELEASE.2024-12-18T13-15-44Z
+#minio/minio:RELEASE.2024-12-18T13-15-44Z
 
-mysql:8.4
-mysql:8.0.44
+#mysql:8.4
+#mysql:8.0.44
 
-fatedier/frps:v0.65.0
-fatedier/frpc:v0.65.0
+#fatedier/frps:v0.65.0
+#fatedier/frpc:v0.65.0
 
-nginx:1.29.4
-nginx:1.26.3
+#nginx:1.29.4
+#nginx:1.26.3
 
-centos:centos7.9.2009
-redis:5.0.14
-xuxueli/xxl-job-admin:3.3.1
+#centos:centos7.9.2009
+#redis:5.0.14
+#xuxueli/xxl-job-admin:3.3.1
+
+redis:5.0.9-alpine3.12
 
 
